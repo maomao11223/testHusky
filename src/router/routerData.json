@@ -1,0 +1,20 @@
+{
+    "menu": [
+        {
+            "path": "/",
+            "name": "Home",
+            "meta": {
+                "title": "首頁",
+                "layout": "DefaultLayout"
+            }
+        },
+        {
+            "path": "/Page2",
+            "name": "Page2",
+            "meta": {
+                "title": "Page2",
+                "layout": "DefaultLayout"
+            }
+        }
+    ]
+}
